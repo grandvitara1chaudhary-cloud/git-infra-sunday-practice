@@ -3,6 +3,18 @@ rgs = {
         name = "rg-preprod"
         location = "East Us"
     }
+    rg2 = {
+        name = "rg-david2"
+        location = "East Us"
+    }
+    rg3 = {
+        name = "rg-david1"
+        location = "East Us"
+    }
+     rg4 = {
+        name = "rg-takla"
+        location = "East Us"
+    }
 }
 storage_accounts = {
     sa1 = {
